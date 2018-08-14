@@ -1,3 +1,4 @@
 # Allison-Tong.github.io
-<p style="color:blue;"> Test </p>
-<h5> <h style="color:baby blue;">Leo the foodie! </h5>
+Test
+Leo the Foodie!
+<p> This is a page dedicated the illustrious hero named Leo Tong and his fight against the nasty racoons </p>
